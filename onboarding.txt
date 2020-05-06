@@ -1,0 +1,24 @@
+DOM
+
+Efficiency: search for id for each element
+document.querySelector("#id");
+document.querySelector("#id .board");
+document.querySelector("#id_parent > child");
+
+Query as specific as possible
+prioritize id 
+
+Login: 
+Username/Password: id  
+Auto-generated ids, numeric ids: don't want id
+numeric ids are specific to users
+
+Branches
+
+git checkout develop
+git pull
+git checkout -b R###/Name 
+
+Login Failed: bad credentials
+
+Bots: sequential not multithreaded
